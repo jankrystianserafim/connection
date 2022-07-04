@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">drone_connection_setup</string>
+    <string name="textView1">here is some text</string>
+    <string name="str_usb_device_not_found">USB device not found</string>
+    <string name="str_usb_permission_not_granted">USB permission not granted</string>
+    <string name="str_usb_permission_is_granted">USB permission is granted</string>
+</resources>
